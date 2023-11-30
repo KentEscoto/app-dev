@@ -22,8 +22,8 @@
   > [Franky][8] is the **shipwright of the crew and a skilled ship designer**. He dreams of *'sailing a ship'* he built around the world.
 - ### "Soul King" Brook
   > [Brook][9] is the **crew's musician**, a living skeleton with the power of the *'Revive-Revive Fruit'*. His dream is to reunite with his shadow and fulfill his promise to a friend.
-- ### "First Son of the Sea" Jimbei
-  > [Jimbei][10] is the **crew's helmsman and Fish-Man Karate master**, serves as a reliable ally with a history as a *'former Warlord of the Sea'*.
+- ### "First Son of the Sea" Jinbe
+  > [Jinbe][10] is the **crew's helmsman and Fish-Man Karate master**, serves as a reliable ally with a history as a *'former Warlord of the Sea'*.
 
 [1]: <https://onepiece.fandom.com/wiki/Monkey_D._Luffy> "Luffy"
 [2]: <https://onepiece.fandom.com/wiki/Roronoa_Zoro> "Zoro"
@@ -34,7 +34,7 @@
 [7]: <https://onepiece.fandom.com/wiki/Nico_Robin> "Robin"
 [8]: <https://onepiece.fandom.com/wiki/Franky> "Franky"
 [9]: <https://onepiece.fandom.com/wiki/Brook> "Brook"
-[10]: <https://onepiece.fandom.com/wiki/Jinbe> "Jimbei"
+[10]: <https://onepiece.fandom.com/wiki/Jinbe> "Jinbe"
 [11]: <https://onepiece.fandom.com/wiki/One_Piece> "One Piece"
 
 ## Story Arcs 🏘️
