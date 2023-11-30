@@ -5,4 +5,4 @@
 
 ## Character 👩‍👨‍👦‍👦
 > - **Luffy**
->> The protagonist of the series, Luffy, ate the **Gum-Gum Fruit**, gaining the ability to stretch his body like rubber. He dreams of finding the One Piece and becoming the Pirate King.
+> The protagonist of the series, Luffy, ate the **Gum-Gum Fruit**, gaining the ability to stretch his body like rubber. He dreams of finding the One Piece and becoming the Pirate King.
