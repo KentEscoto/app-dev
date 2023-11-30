@@ -5,7 +5,7 @@
 
 ## Strawhat Pirate Crew 👩‍👨‍👦‍👦
 - ### Luffy
-  The protagonist of the series, Luffy, ate the *Gum-Gum Fruit*, gaining the ability to stretch his body like rubber. He dreams of finding the One Piece and becoming the **Pirate King**.
+  > The protagonist of the series, Luffy, ate the *Gum-Gum Fruit*, gaining the ability to stretch his body like rubber. He dreams of finding the One Piece and becoming the **Pirate King**.
 - ### Roronoa Zoro
   Zoro is the **crew's swordsman** with unparalleled skill. His dream is to become the *greatest swordsman* in the world.
 - ### Nami
@@ -28,7 +28,7 @@
 ## Story Arcs 🏘️
 "One Piece" is known for its engaging story arcs, each introducing new challenges, characters, and mysteries. Some notable arcs include:
 1. ### East Blue Saga
-  - Introduces the main characters and their initial journeys.
+    - Introduces the main characters and their initial journeys.
 
 2. ### Alabasta Arc
-  - Luffy and his crew attempt to stop a rebellion in the desert kingdom of Alabasta.
+    - Luffy and his crew attempt to stop a rebellion in the desert kingdom of Alabasta.
